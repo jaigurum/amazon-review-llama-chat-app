@@ -108,7 +108,7 @@ This project is open source and available under the [MIT License](LICENSE).
 If you have any questions or feedback, feel free to reach out!
 
 - **Email**: mjguru@gmail.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **GitHub**: jaigurum
 
 ---
 
