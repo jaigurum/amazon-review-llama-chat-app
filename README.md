@@ -17,19 +17,19 @@ The Streamlit Llama Chat App showcases the power of natural language processing 
 
 ```
 streamlit-llama-chat-app/
-├── app.py               # Main Streamlit application script
-├── requirements.txt     # List of Python dependencies
-├── README.md            # Project description, features, and usage instructions
-├── Modelfile            # Model configuration for Ollama
-├── notebooks/           # Jupyter notebooks for data exploration and analysis
+├── llama-streamlit.py    # Main Streamlit application script
+├── requirements.txt      # List of Python dependencies
+├── README.md             # Project description, features, and usage instructions
+├── Modelfile             # Model configuration for Ollama
+├── notebooks/            # Jupyter notebooks for data exploration and analysis
 │   ├── model_analysis.ipynb
 │   └── data_preparation.ipynb
-├── src/                 # Helper scripts for data and model utilities
+├── src/                  # Helper scripts for data and model utilities
 │   ├── data_utils.py
 │   └── model_utils.py
-├── images/              # Images for README or documentation
-├── .gitignore           # Files to ignore in Git
-└── .github/workflows/   # CI/CD workflow for GitHub Actions
+├── images/               # Images for README or documentation
+├── .gitignore            # Files to ignore in Git
+└── .github/workflows/    # CI/CD workflow for GitHub Actions
     └── streamlit.yml
 ```
 
@@ -38,6 +38,7 @@ streamlit-llama-chat-app/
 To set up and run the project locally, follow the steps below:
 
 ### Prerequisites
+
 - **Python 3.x**: Ensure you have Python 3.x installed.
 - **Git**: To clone the repository.
 
@@ -65,7 +66,7 @@ To set up and run the project locally, follow the steps below:
 
 To start the Streamlit application, run:
 ```bash
-streamlit run app.py
+streamlit run llama-streamlit.py
 ```
 
 This command will launch a local server. Navigate to the provided URL (usually `http://localhost:8501`) in your web browser to interact with the chat application.
@@ -107,8 +108,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 If you have any questions or feedback, feel free to reach out!
 
-- **Email**: mjguru@gmail.com
-- **GitHub**: jaigurum
+- **Email**: [mjguru@gmail.com](mailto\:mjguru@gmail.com)
+- **GitHub**: [jaigurum](https://github.com/jaigurum)
 
 ---
 
